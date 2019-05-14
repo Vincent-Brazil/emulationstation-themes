@@ -8,5 +8,7 @@
 
 # References
 *'https://retropie.org.uk/docs/Creating-Your-Own-EmulationStation-Theme/*
+
 *'https://github.com/mattrixk/es-theme-spare*
+
 *'https://github.com/RetroHursty69*
