@@ -14,3 +14,5 @@
 *'https://github.com/mattrixk/es-theme-spare*
 <br/>
 *'https://github.com/RetroHursty69*
+<br/>
+*'https://github.com/HerbFargus/Portable-Game-Station/wiki/Portable-Emulationstation*
