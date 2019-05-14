@@ -7,12 +7,12 @@
 *'Using SVG in Snes rather than PNG in console.*
 
 # References
-*'https://retropie.org.uk/docs/Creating-Your-Own-EmulationStation-Theme/*
+*https://retropie.org.uk/docs/Creating-Your-Own-EmulationStation-Theme/*
 <br/>
-*'https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md*
+*https://github.com/RetroPie/EmulationStation/blob/master/THEMES.md*
 <br/>
-*'https://github.com/mattrixk/es-theme-spare*
+*https://github.com/mattrixk/es-theme-spare*
 <br/>
-*'https://github.com/RetroHursty69*
+*https://github.com/RetroHursty69*
 <br/>
-*'https://github.com/HerbFargus/Portable-Game-Station/wiki/Portable-Emulationstation*
+*https://github.com/HerbFargus/Portable-Game-Station/wiki/Portable-Emulationstation*
