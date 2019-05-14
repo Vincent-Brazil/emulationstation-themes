@@ -1,9 +1,12 @@
-Contains base elements to edit and copy.
+# Intro
+ Base elements to edit and copy to form a theme. Mostly based of Hursty's structure.
 
-##Console folder to be replaced with specific consoles with proper imagary.
+# To Do
+*'Console folder to be replaced with specific consoles with proper imagery.*
+*'Update root theme.xml*
+*'Using SVG in Snes rather than PNG in console.*
 
-help reference:
-https://retropie.org.uk/docs/Creating-Your-Own-EmulationStation-Theme/
-https://github.com/mattrixk/es-theme-spare
-
-initial image and xml layout from: https://github.com/RetroHursty69
+# References
+*'https://retropie.org.uk/docs/Creating-Your-Own-EmulationStation-Theme/*
+*'https://github.com/mattrixk/es-theme-spare*
+*'https://github.com/RetroHursty69*
